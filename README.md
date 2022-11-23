@@ -1,11 +1,11 @@
 # Sarus
 My github Profile
 
--> 👋 Hi, I’m @Sarus1997 , My nick name Sarus 😎
--> 🏫 I’m Study in Walailak University
--> 🌱 My majer IT
--> 💞️ I’m looking to collaborate on ...
--> 📫 How to reach me ...
+-> 👋 Hi, I’m @Sarus1997 , My nick name Sarus 😎 <br>
+-> 🏫 I’m Study in Walailak University <br>
+-> 🌱 My majer IT <br>
+-> 💞️ I’m looking to collaborate on ... <br>
+-> 📫 How to reach me ... <br>
 
 
 Here's our logo (hover to see the title text):
