@@ -1,5 +1,5 @@
 # Sarus
-<h3> <coloe="red"> My github Profile </color></h3>
+<h3> <text coloe="red"> My github Profile </color></h3>
 
 -> 👋 Hi, I’m @Sarus1997 , My nick name Sarus 😎 <br>
 -> 🏫 I’m Study in Walailak University <br>
