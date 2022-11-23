@@ -1,5 +1,6 @@
 # Sarus
 <font color="red"> My Github Profild </font> 
+<span style="color: green"> Some green text </span>
 
 -> 👋 Hi, I’m @Sarus1997 , My nick name Sarus 😎 <br>
 -> 🏫 I’m Study in Walailak University <br>
